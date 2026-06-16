@@ -1,4 +1,4 @@
-Project: Data Cleaning and Visualization using Titanic Dataset
+Project: Data Cleaning and Visualization using Titanic Dataset.
 
 Tools Used:
 - Python
